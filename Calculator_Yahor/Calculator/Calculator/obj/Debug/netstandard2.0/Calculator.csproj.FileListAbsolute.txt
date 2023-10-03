@@ -1,0 +1,28 @@
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\ref\Calculator.dll
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\ref\Calculator.dll
+C:\Users\37529\OneDrive - Vistula University\Desktop\demo-project-master\Xamarin\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\ref\Calculator.dll
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\ref\Calculator.dll
+C:\Users\Dwibble\Desktop\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
